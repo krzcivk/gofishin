@@ -1,0 +1,38 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+
+
+.span4 {
+    width: 10%;
+    margin: 0 2.5%;
+}
+.span4 > img {
+    width: 10%;
+    padding-top: 0%;
+    display: block;
+}
+
+.row {
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+@media (min-width: 992px)
+.bg-dark {
+ background-color: #563d7c; }
